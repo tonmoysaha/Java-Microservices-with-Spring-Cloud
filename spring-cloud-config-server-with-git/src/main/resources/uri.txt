@@ -1,0 +1,8 @@
+http://localhost:8888/s1rates/default
+http://localhost:8888/s1rates/master
+http://localhost:8888/s1rates/dev
+http://localhost:8888/s1rates-default.properties
+http://localhost:8888/s1rates-default.yml
+http://localhost:8888/s1rates-default.json
+http://localhost:8888/s1rates-dev.json
+http://localhost:8888/s3rates/perf (use different git repo)
